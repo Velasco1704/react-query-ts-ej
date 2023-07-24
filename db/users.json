@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Wylma",
+      "fullName": "Wylma Gibbings",
+      "age": 34,
+      "single": false
+    },
+    {
+      "id": 2,
+      "name": "Danila",
+      "fullName": "Danila Kacheller",
+      "age": 11,
+      "single": true
+    },
+    {
+      "id": 3,
+      "name": "Colleen",
+      "fullName": "Colleen Izkoveski",
+      "age": 44,
+      "single": true
+    },
+    {
+      "id": 4,
+      "name": "Marnia",
+      "fullName": "Marnia Ecob",
+      "age": 11,
+      "single": true
+    },
+    {
+      "id": 5,
+      "name": "Sibella",
+      "fullName": "Sibella Behn",
+      "age": 83,
+      "single": true
+    },
+    {
+      "id": 6,
+      "name": "Guinna",
+      "fullName": "Guinna Sand",
+      "age": 27,
+      "single": true
+    },
+    {
+      "id": 7,
+      "name": "Rabbi",
+      "fullName": "Rabbi Jopson",
+      "age": 18,
+      "single": true
+    },
+    {
+      "name": "Daniel",
+      "fullName": "Daniel Velasco",
+      "age": 17,
+      "single": true,
+      "id": 12
+    },
+    {
+      "name": "Emma",
+      "fullName": "Emma Zuluaga",
+      "age": 10,
+      "single": true,
+      "id": 14
+    }
+  ]
+}
